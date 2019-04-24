@@ -10,26 +10,26 @@
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-5cf8c80b677616fe7080.js>; rel=preload; as=script
+  Link: </webpack-runtime-64c12d92a3e0bfd5d47e.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-ee1f638d44c9e68967c6.js>; rel=preload; as=script
 /blockchain-pov
-  Link: </webpack-runtime-5cf8c80b677616fe7080.js>; rel=preload; as=script
+  Link: </webpack-runtime-64c12d92a3e0bfd5d47e.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /categories/crypto
-  Link: </webpack-runtime-5cf8c80b677616fe7080.js>; rel=preload; as=script
+  Link: </webpack-runtime-64c12d92a3e0bfd5d47e.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /categories/thouhgts
-  Link: </webpack-runtime-5cf8c80b677616fe7080.js>; rel=preload; as=script
+  Link: </webpack-runtime-64c12d92a3e0bfd5d47e.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /categories/
-  Link: </webpack-runtime-5cf8c80b677616fe7080.js>; rel=preload; as=script
+  Link: </webpack-runtime-64c12d92a3e0bfd5d47e.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /contact/
-  Link: </webpack-runtime-5cf8c80b677616fe7080.js>; rel=preload; as=script
+  Link: </webpack-runtime-64c12d92a3e0bfd5d47e.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-5cf8c80b677616fe7080.js>; rel=preload; as=script
+  Link: </webpack-runtime-64c12d92a3e0bfd5d47e.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /success/
-  Link: </webpack-runtime-5cf8c80b677616fe7080.js>; rel=preload; as=script
+  Link: </webpack-runtime-64c12d92a3e0bfd5d47e.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
