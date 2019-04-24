@@ -1,0 +1,35 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-902affb262be5b293804.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-ee1f638d44c9e68967c6.js>; rel=preload; as=script
+/blockchain-pov
+  Link: </webpack-runtime-902affb262be5b293804.js>; rel=preload; as=script
+  Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
+/categories/crypto
+  Link: </webpack-runtime-902affb262be5b293804.js>; rel=preload; as=script
+  Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
+/categories/thouhgts
+  Link: </webpack-runtime-902affb262be5b293804.js>; rel=preload; as=script
+  Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
+/categories/
+  Link: </webpack-runtime-902affb262be5b293804.js>; rel=preload; as=script
+  Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
+/contact/
+  Link: </webpack-runtime-902affb262be5b293804.js>; rel=preload; as=script
+  Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-902affb262be5b293804.js>; rel=preload; as=script
+  Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
+/success/
+  Link: </webpack-runtime-902affb262be5b293804.js>; rel=preload; as=script
+  Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
