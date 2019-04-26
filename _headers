@@ -10,26 +10,26 @@
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-de29a978399ee33d239c.js>; rel=preload; as=script
+  Link: </webpack-runtime-66582ff5f71b9b4f37f8.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-ee1f638d44c9e68967c6.js>; rel=preload; as=script
 /blockchain-pov
-  Link: </webpack-runtime-de29a978399ee33d239c.js>; rel=preload; as=script
+  Link: </webpack-runtime-66582ff5f71b9b4f37f8.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /categories/crypto
-  Link: </webpack-runtime-de29a978399ee33d239c.js>; rel=preload; as=script
+  Link: </webpack-runtime-66582ff5f71b9b4f37f8.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /categories/thouhgts
-  Link: </webpack-runtime-de29a978399ee33d239c.js>; rel=preload; as=script
+  Link: </webpack-runtime-66582ff5f71b9b4f37f8.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /categories/
-  Link: </webpack-runtime-de29a978399ee33d239c.js>; rel=preload; as=script
+  Link: </webpack-runtime-66582ff5f71b9b4f37f8.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /contact/
-  Link: </webpack-runtime-de29a978399ee33d239c.js>; rel=preload; as=script
+  Link: </webpack-runtime-66582ff5f71b9b4f37f8.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-de29a978399ee33d239c.js>; rel=preload; as=script
+  Link: </webpack-runtime-66582ff5f71b9b4f37f8.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
 /success/
-  Link: </webpack-runtime-de29a978399ee33d239c.js>; rel=preload; as=script
+  Link: </webpack-runtime-66582ff5f71b9b4f37f8.js>; rel=preload; as=script
   Link: </0-af1ec515487e9af7a20f.js>; rel=preload; as=script
